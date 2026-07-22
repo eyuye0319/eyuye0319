@@ -171,7 +171,7 @@ I am a Software Engineering student passionate about building scalable web appli
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/Wubgzer Alemayehu">
+  <a href="https://www.linkedin.com/in/wubgzer-alemayehu-0aa33934b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/eyuye0319">
