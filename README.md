@@ -156,7 +156,7 @@ I am a Software Engineering student passionate about building scalable web appli
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src=github-readme-stats-one-bice.vercel.app/api?username=eyuye0319&show_icons=true&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src=github-readme-stats-one-bice.vercel.app/api?username=eyuye0319&show_icons=true&theme=tokyonight" alt="Git Status" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyuye0319&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
 
